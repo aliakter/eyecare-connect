@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018405104140",
+    "project_id": "eyecare-connect-4bac9",
+    "storage_bucket": "eyecare-connect-4bac9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018405104140:android:864febaacc6afd99971c29",
+        "android_client_info": {
+          "package_name": "com.example.eyecare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATfKK2caOadODQ237TS7okLfi794exq3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
